@@ -1,0 +1,12 @@
+A:\Railway\BE\BE.Shared\bin\Debug\net7.0\BE.Shared.deps.json
+A:\Railway\BE\BE.Shared\bin\Debug\net7.0\BE.Shared.dll
+A:\Railway\BE\BE.Shared\bin\Debug\net7.0\BE.Shared.pdb
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.csproj.AssemblyReference.cache
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.GeneratedMSBuildEditorConfig.editorconfig
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.AssemblyInfoInputs.cache
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.AssemblyInfo.cs
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.csproj.CoreCompileInputs.cache
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.dll
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\refint\BE.Shared.dll
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\BE.Shared.pdb
+A:\Railway\BE\BE.Shared\obj\Debug\net7.0\ref\BE.Shared.dll

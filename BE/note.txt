@@ -1,0 +1,6 @@
+﻿cấu hình AutoMapper : BE.Application.Extensions;
+
+- tạo IDateTimeProvider & DateTimeProvider
+	-> dùng cho expires trong JwtTokenGenerator
+
+- sử dụng JwtSetting class trong JwtTokenGenerator để thiết lập các giá trị cho Jwt

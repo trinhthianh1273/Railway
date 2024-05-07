@@ -1,0 +1,17 @@
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Application.deps.json
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Application.dll
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Application.pdb
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Domain.dll
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Domain.pdb
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.csproj.AssemblyReference.cache
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.AssemblyInfoInputs.cache
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.AssemblyInfo.cs
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.csproj.CoreCompileInputs.cache
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.csproj.CopyComplete
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.dll
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\refint\BE.Application.dll
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.pdb
+A:\Railway\BE\BE.Application\obj\Debug\net7.0\ref\BE.Application.dll
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Shared.dll
+A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Shared.pdb

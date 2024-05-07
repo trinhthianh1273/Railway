@@ -1,0 +1,12 @@
+A:\Railway\BE\BE.Domain\bin\Debug\net7.0\BE.Domain.deps.json
+A:\Railway\BE\BE.Domain\bin\Debug\net7.0\BE.Domain.dll
+A:\Railway\BE\BE.Domain\bin\Debug\net7.0\BE.Domain.pdb
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.csproj.AssemblyReference.cache
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.AssemblyInfoInputs.cache
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.AssemblyInfo.cs
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.csproj.CoreCompileInputs.cache
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.dll
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\refint\BE.Domain.dll
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.pdb
+A:\Railway\BE\BE.Domain\obj\Debug\net7.0\ref\BE.Domain.dll
