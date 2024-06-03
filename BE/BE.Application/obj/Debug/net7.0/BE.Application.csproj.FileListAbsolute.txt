@@ -15,3 +15,20 @@ A:\Railway\BE\BE.Application\obj\Debug\net7.0\BE.Application.pdb
 A:\Railway\BE\BE.Application\obj\Debug\net7.0\ref\BE.Application.dll
 A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Shared.dll
 A:\Railway\BE\BE.Application\bin\Debug\net7.0\BE.Shared.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Application.deps.json
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Application.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Application.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Shared.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Domain.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\bin\Debug\net7.0\BE.Shared.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.csproj.AssemblyReference.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.AssemblyInfoInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.AssemblyInfo.cs
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.csproj.CoreCompileInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.csproj.CopyComplete
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\refint\BE.Application.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\BE.Application.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Application\obj\Debug\net7.0\ref\BE.Application.dll

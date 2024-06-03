@@ -1,0 +1,537 @@
+<html lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> ViserBus - Home</title>
+    <meta name="title" content="ViserBus - Home">
+    <meta name="description"
+        content="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit">
+    <meta name="keywords" content="ViserBus,bus booking system,bus booking php script,single vendro bus booking system">
+
+    <link rel="shortcut icon" type="image/x-icon"
+        href="https://script.viserlab.com/viserbus/assets/images/logoIcon/favicon.png">
+
+
+    <link rel="apple-touch-icon" href="https://script.viserlab.com/viserbus/assets/images/logoIcon/logo.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="ViserBus - Home">
+
+    <meta itemprop="name" content="ViserBus - Home">
+    <meta itemprop="description" content="">
+    <meta itemprop="image" content="https://script.viserlab.com/viserbus/assets/images/seo/6210e34d4726e1645273933.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="ViserBus - Bus Ticket Booking System">
+    <meta property="og:description"
+        content="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit ff">
+    <meta property="og:image"
+        content="https://script.viserlab.com/viserbus/assets/images/seo/6210e34d4726e1645273933.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="315">
+    <meta property="og:url" content="https://script.viserlab.com/viserbus">
+
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- BootStrap Link -->
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/bootstrap.min.css">
+    <!-- Icon Link -->
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/global/css/all.min.css">
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/global/css/line-awesome.min.css">
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/flaticon.css">
+
+    <!-- Plugings Link -->
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/slick.css">
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/global/css/select2.min.css">
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/jquery-ui.css">
+
+    <!-- Cookie Link -->
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/cookie.css">
+    <!-- Custom Link -->
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/main.css">
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/templates/basic/css/custom.css">
+    <link rel="stylesheet"
+        href="https://script.viserlab.com/viserbus/assets/templates/basic/css/color.php?color=0E9E4D">
+
+    <meta http-equiv="origin-trial"
+        content="A7CQXglZzTrThjGTBEn1rWTxHOEtkWivwzgea+NjyardrwlieSjVuyG44PkYgIPGs8Q9svD8sF3Yedn0BBBjXAkAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <meta http-equiv="origin-trial"
+        content="A3vKT9yxRPjmXN3DpIiz58f5JykcWHjUo/W7hvmtjgh9jPpQgem9VbADiNovG8NkO6mRmk70Kex8/KUqAYWVWAEAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <meta http-equiv="origin-trial"
+        content="A4A26Ymj79UVY7C7JGUS4BG1s7MdcDokAQf/RP0paks+RoTYbXHxceT/5L4iKcsleFCngi75YfNRGW2+SpVv1ggAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <meta http-equiv="origin-trial"
+        content="As0hBNJ8h++fNYlkq8cTye2qDLyom8NddByiVytXGGD0YVE+2CEuTCpqXMDxdhOMILKoaiaYifwEvCRlJ/9GcQ8AAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnVlfQ==">
+    <meta http-equiv="origin-trial"
+        content="AgRYsXo24ypxC89CJanC+JgEmraCCBebKl8ZmG7Tj5oJNx0cmH0NtNRZs3NB5ubhpbX/bIt7l2zJOSyO64NGmwMAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3MTk1MzI3OTksImlzU3ViZG9tYWluIjp0cnVlfQ==">
+    <meta http-equiv="origin-trial"
+        content="A41wt2Lsq30A9Ox/WehogvJckPI4aY9RoSxhb8FMtVnqaUle1AtI6Yf7Wk+7+Wm0AfDDOkMX+Wn6wnDpBWYgWwYAAAB8eyJvcmlnaW4iOiJodHRwczovL2Fkcm9sbC5jb206NDQzIiwiZmVhdHVyZSI6IkludGVyZXN0Q29ob3J0QVBJIiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <script src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-main.js" charset="UTF-8" crossorigin="*"></script>
+    <script src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script>
+    <script src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-vendors.js" charset="UTF-8"
+        crossorigin="*"></script>
+    <script src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-common.js" charset="UTF-8"
+        crossorigin="*"></script>
+    <script src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-runtime.js" charset="UTF-8"
+        crossorigin="*"></script>
+    <script src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-app.js" charset="UTF-8" crossorigin="*"></script>
+    <script
+        src="https://connect.facebook.net/signals/config/867127160068529?v=2.9.124&amp;r=stable&amp;domain=script.viserlab.com"
+        async=""></script>
+    <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script>
+    <script src="https://partner.googleadservices.com/gampad/cookie.js"></script>
+    <script id="adroll_scr_exp" onerror="window.adroll_exp_list = [];" type="text/javascript"
+        src="https://s.adroll.com/j/exp/YXRNNTO7ZBAMFBH67UUE5M/index.js"></script>
+    <script type="text/javascript"
+        src="https://d.adroll.com/consent/check/YXRNNTO7ZBAMFBH67UUE5M?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;_s=8603eded13d7524c165497a2156514d5&amp;_b=2"></script>
+    <script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script>
+    <div style="width: 1px; height: 1px; display: inline; position: absolute;"><img height="1" width="1"
+            style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/b/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/g/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/index/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/l/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/n/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/o/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/outbrain/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/pubmatic/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/r/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/taboola/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/triplelift/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M"><img
+            height="1" width="1" style="border-style:none;" alt=""
+            src="https://d.adroll.com/cm/x/out?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;advertisable=YXRNNTO7ZBAMFBH67UUE5M">
+    </div>
+    <img src="https://ipv4.d.adroll.com/seg4/YXRNNTO7ZBAMFBH67UUE5M/MMQQDWGN25EXPHGRPA3NLR?adroll_fpc=bdc08cac9a06285d53e8af58f66d636e-1692454436670&amp;pv=94528145165.78569&amp;arrfrr=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;cookie=YXRNNTO7ZBAMFBH67UUE5M%3A23%7CMMQQDWGN25EXPHGRPA3NLR%3A23&amp;adroll_s_ref=&amp;keyw=&amp;p0=225&amp;adroll_external_data=&amp;adroll_version=2.0"
+        width="1" height="1" border="0" alt="">
+    <div style="width: 1px; height: 1px; display: inline; position: absolute;"></div>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-2c78ba82.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-696bc286.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-f1596d96.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-2d0b383d.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-48f46bef.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-4fe9d5dd.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-2d0b9454.js"></script>
+    <script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/js/twk-chunk-07cad36d.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js" type="text/javascript" async=""
+        defer=""></script>
+    <script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js" type="text/javascript" async=""
+        defer=""></script>
+</head>
+
+<body cz-shortcut-listen="true">
+    <div class="overlay"></div>
+
+    <!-- Preloader -->
+    <div class="preloader" style="display: none;">
+        <div class="loader-wrapper">
+            <div class="truck-wrapper">
+                <div class="preloader-content">ViserBus</div>
+                <div class="truck">
+                    <div class="truck-container"></div>
+                    <div class="glases"></div>
+                    <div class="bonet"></div>
+
+                    <div class="base"></div>
+
+                    <div class="base-aux"></div>
+                    <div class="wheel-back"></div>
+                    <div class="wheel-front"></div>
+                    <div class="smoke"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader -->
+    <!-- Header Section Starts Here -->
+
+    <div class="header-top">
+        <div class="container">
+            <div class="header-top-area">
+                <ul class="left-content">
+                    <li>
+                        <i class="las la-phone"></i>
+                        <a href="tel:+44 45678908">
+                            +44 45678908
+                        </a>
+                    </li>
+                    <li>
+                        <i class="las la-envelope-open"></i>
+                        <a href="mailto:example@gmail.com">
+                            example@gmail.com
+                        </a>
+                    </li>
+                </ul>
+                <div class="right-content d-flex flex-wrap" style="gap:10px">
+                    <div>
+                        <!-- <select class="langSel form--control">
+                            <option value="en" selected="">English</option>
+                            <option value="hn">Hindi</option>
+                            <option value="bn">Bangla</option>
+                        </select> -->
+                    </div>
+                    <!-- <ul *ngIf="isLogged" class="header-login">
+                        <li>
+                            <a class="langSel form--control">Dashboard</a>
+                        </li>
+                        <li>
+                            <a class="sign-up" href="javascript:void(0)" (click)="LogOut()">
+                                <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                                Sign Out
+                            </a>
+                        </li>
+                    </ul> -->
+                    <!-- <ul *ngIf="!isLogged" class="header-login">
+                        <li>
+                            <a class="sign-in" routerLink="/sign-in">
+                                <i class="fas fa-sign-in-alt"></i>
+                                Sign In</a>
+                        </li>
+                        <li>/</li>
+                        <li>
+                            <a class="sign-up" [routerLink]="['sign-up']">
+                                <i class="fas fa-user-plus"></i>
+                                Sign Up
+                            </a>
+                        </li>
+                    </ul> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-bottom">
+        <div class="container">
+            <div class="header-bottom-area">
+                <div class="logo">
+                    <a [routerLink]="['']">
+                        <img src="https://script.viserlab.com/viserbus/assets/images/logoIcon/logo.png" alt="Logo">
+                    </a>
+                </div> <!-- Logo End -->
+                <ul class="menu">
+                    <li>
+                        <a [routerLink]="['']">Home</a>
+                    </li>
+                    <li>
+                        <a [routerLink]="['']">About</a>
+                    </li>
+                    <li>
+                        <a [routerLink]="['']">FAQs</a>
+                    </li>
+
+                    <li>
+                        <a [routerLink]="['']">Blog</a>
+                    </li>
+                    <li>
+                        <a [routerLink]="['']">Contact</a>
+                    </li>
+                </ul>
+                <div class="d-flex flex-wrap algin-items-center">
+                    <a [routerLink]="['']" class="cmn--btn btn--sm">Buy Tickets</a>
+                    <div class="header-trigger-wrapper d-flex d-lg-none ms-4">
+                        <div class="header-trigger d-block d-lg-none">
+                            <span></span>
+                        </div>
+                        <div class="top-bar-trigger">
+                            <i class="las la-ellipsis-v"></i>
+                        </div>
+                    </div><!-- Trigger End-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header Section Ends Here -->
+
+    <!-- Banner Section Starts Here -->
+    <router-outlet></router-outlet>
+    <!-- Blog Section Ends Here -->
+
+    <!-- Footer Section Starts Here -->
+    <section class="footer-seciton">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row footer-wrapper gy-sm-5 gy-4">
+                    <div class="col-xl-4 col-lg-3 col-md-6 col-sm-6">
+                        <div class="footer-widget">
+                            <div class="logo">
+                                <img src="https://script.viserlab.com/viserbus/assets/images/logoIcon/logo_2.png"
+                                    alt="Logo">
+                            </div>
+                            <p>Delectus culpa laboriosam debitis saepe. Commodi earum minus ut obcaecati veniam deserunt
+                                est!</p>
+                            <ul class="social-icons">
+                                <li>
+                                    <a href="https://www.facebook.com/"><i class="lab la-facebook-f"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/?lang=en"><i class="lab la-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://vimeo.com/log_in"><i class="lab la-vimeo"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/?hl=en"><i class="lab la-instagram"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget">
+                            <h4 class="widget-title">Useful Links</h4>
+                            <ul class="footer-links">
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/about-us">About</a>
+                                </li>
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/faq">FAQs</a>
+                                </li>
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/blog">Blog</a>
+                                </li>
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/contact">Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget">
+                            <h4 class="widget-title">Policies</h4>
+                            <ul class="footer-links">
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/policy/69/privacy-policy">Privacy
+                                        Policy</a>
+                                </li>
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/policy/71/terms-and-conditions">Terms
+                                        and Conditions</a>
+                                </li>
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/policy/90/ticket-policies">Ticket
+                                        Policies</a>
+                                </li>
+                                <li>
+                                    <a href="https://script.viserlab.com/viserbus/policy/102/refund-policy">Refund
+                                        Policy</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                        <div class="footer-widget">
+                            <h4 class="widget-title">Contact Info</h4>
+                            <ul class="footer-contacts">
+                                <li>
+                                    <i class="las la-map-pin"></i> Bengla Road Suite Dhaka 1209
+                                </li>
+                                <li>
+                                    <i class="las la-phone-volume"></i> <a href="tel:+44 45678908"> +44 45678908</a>
+                                </li>
+                                <li>
+                                    <i class="las la-envelope"></i> <a href="mailto:example@gmail.com">
+                                        example@gmail.com</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer Section Ends Here -->
+
+
+    <!-- cookies default start -->
+    <!-- <div id="cookiePolicy" class="cookies-card bg--default radius--10px text-center" style="display: none;">
+        <div class="cookies-card__icon">
+            <i class="fas fa-cookie-bite"></i>
+        </div>
+        <p class="mt-4 cookies-card__content">
+            <font face="Exo, sans-serif"><span style="font-size: 18px;">We may use cookies or any other tracking
+                    technologies when you visit our website, including any other media form, mobile website, or mobile
+                    application related or connected to help customize the Site and improve your experience.</span>
+            </font>
+            <br> 
+            <a href="https://script.viserlab.com/viserbus/cookie/details" target="_blank">learn more</a>
+        </p>
+        <div class="cookies-card__btn mt-4">
+            <a href="#" name="cookieAccept" class="cookies-btn">Allow</a>
+        </div>
+    </div> -->
+    <!-- cookies default end -->
+
+
+    <a href="javascript::void()" class="scrollToTop active">
+        <i class="las la-chevron-up"></i>
+    </a>
+    <script
+        src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202308160101/show_ads_impl_fy2021.js?bust=31077198"
+        id="google_shimpl"></script>
+    <script async="" src="https://s.adroll.com/j/YXRNNTO7ZBAMFBH67UUE5M/roundtrip.js"></script>
+    <script async="" src="https://embed.tawk.to/5fe0b9b2a8a254155ab5421d/1eq2tap1m" charset="UTF-8"
+        crossorigin="*"></script>
+    <script src="https://script.viserlab.com/viserbus/assets/global/js/jquery-3.6.0.min.js"></script>
+    <script src="https://script.viserlab.com/viserbus/assets/templates/basic/js/bootstrap.min.js"></script>
+    <script src="https://script.viserlab.com/viserbus/assets/templates/basic/js/slick.min.js"></script>
+    <script src="https://script.viserlab.com/viserbus/assets/global/js/select2.min.js"></script>
+    <script src="https://script.viserlab.com/viserbus/assets/templates/basic/js/jquery-ui.min.js"></script>
+    <script src="https://script.viserlab.com/viserbus/assets/templates/basic/js/main.js"></script>
+    <div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all">
+    </div>
+
+
+    <script>
+        // $(document).ready(function () {
+        //     "use strict";
+        //     $(".langSel").on("change", function () {
+        //         window.location.href = "https://script.viserlab.com/viserbus/change/" + $(this).val();
+        //     });
+        // });
+    </script>
+    <script>
+        // (function ($) {
+        //     "use strict";
+
+        //     $('#cookiePolicy').hide();
+        //     $('#cookiePolicy').show();
+
+        //     $('a[name="cookieAccept"]').click(function (event) {
+        //         event.preventDefault();
+        //         var actionUrl = "https://script.viserlab.com/viserbus/cookie/accept";
+        //         $.ajax({
+        //             type: "GET",
+        //             url: actionUrl,
+        //             success: function (data) {
+        //                 console.log(data);
+        //                 $('#cookiePolicy').hide();
+        //                 if (data.success) {
+        //                     notify('success', data.success);
+        //                     $('#cookiePolicy').hide();
+        //                 }
+        //             }
+        //         });
+        //     });
+        //     $('.search').on('change', function () {
+        //         $('#filterForm').submit();
+        //     });
+        // })(jQuery);
+    </script>
+
+
+    <link rel="stylesheet" href="https://script.viserlab.com/viserbus/assets/global/css/iziToast.min.css">
+    <script src="https://script.viserlab.com/viserbus/assets/global/js/iziToast.min.js"></script>
+
+    <script>
+        // "use strict";
+        // function notify(status, message) {
+        //     iziToast[status]({
+        //         message: message,
+        //         position: "topRight"
+        //     });
+        // }
+    </script>
+
+    <script>
+        // var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+        // (function () {
+        //     var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        //     s1.async = true;
+        //     s1.src = 'https://embed.tawk.to/5fe0b9b2a8a254155ab5421d/1eq2tap1m';
+        //     s1.charset = 'UTF-8';
+        //     s1.setAttribute('crossorigin', '*');
+        //     s0.parentNode.insertBefore(s1, s0);
+        // })();
+    </script>
+
+    <script>
+        // if (window.top != window.self) {
+        //     document.body.innerHTML += '<div style="position:fixed;top:0;width:100%;z-index:9999999;background:#f8d7da;color:#721c24;text-align:center; padding: 20px;"><p style="font-size:20px; font-weight: bold;">You are using this website under an external iframe!!</p><p style="font-size:16px; margin-top: 20px;">for a better experience, please browse directly instead of an external iframe.</p><a href="' + window.self.location + '" target="_blank" style=" margin-top:20px; color: #fff;background-color: #dc3545; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Browse Directly</a></div>';
+        // }
+    </script>
+
+
+    <script>
+        // adroll_adv_id = "YXRNNTO7ZBAMFBH67UUE5M";
+        // adroll_pix_id = "MMQQDWGN25EXPHGRPA3NLR";
+        // adroll_version = "2.0";
+        // (function (w, d, e, o, a) {
+        //     w.__adroll_loaded = true;
+        //     w.adroll = w.adroll || [];
+        //     w.adroll.f = ['setProperties', 'identify', 'track'];
+        //     var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id
+        //         + "/roundtrip.js";
+        //     for (a = 0; a < w.adroll.f.length; a++) {
+        //         w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function (n) {
+        //             return function () {
+        //                 w.adroll.push([n, arguments])
+        //             }
+        //         })(w.adroll.f[a])
+        //     }
+        //     e = d.createElement('script');
+        //     o = d.getElementsByTagName('script')[0];
+        //     e.async = 1;
+        //     e.src = roundtripUrl;
+        //     o.parentNode.insertBefore(e, o);
+        // })(window, document);
+        // adroll.track("pageView");
+    </script>
+
+
+    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"
+        data-checked-head="true">
+        </script>
+
+    <ins class="adsbygoogle adsbygoogle-noablate" style="display: none !important;" data-adsbygoogle-status="done"
+        data-ad-status="unfilled">
+        <div id="aswift_0_host" tabindex="0" title="Advertisement" aria-label="Advertisement"
+            style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;">
+            <iframe id="aswift_0" name="aswift_0" browsingtopics="true"
+                style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;"
+                sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
+                frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true"
+                scrolling="no" allow="attribution-reporting"
+                src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-8940522890323334&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1692455333&amp;plat=1%3A16778240%2C2%3A16778240%2C3%3A2097152%2C4%3A2097152%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&amp;format=0x0&amp;url=https%3A%2F%2Fscript.viserlab.com%2Fviserbus%2F&amp;ea=0&amp;pra=5&amp;wgl=1&amp;uach=WyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTE2LjAuNTg0NS45NiIsW10sMCxudWxsLCI2NCIsW1siQ2hyb21pdW0iLCIxMTYuMC41ODQ1Ljk2Il0sWyJOb3QpQTtCcmFuZCIsIjI0LjAuMC4wIl0sWyJHb29nbGUgQ2hyb21lIiwiMTE2LjAuNTg0NS45NiJdXSwwXQ..&amp;dt=1692455333243&amp;bpp=5&amp;bdt=183&amp;idt=97&amp;shv=r20230816&amp;mjsv=m202308160101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Df3fbd2790f2dcfd0-224904bffce200d0%3AT%3D1692454438%3ART%3D1692455229%3AS%3DALNI_Mbu1nrqOohnEiERcLolaN6wY1s32Q&amp;gpic=UID%3D00000c2f2cae180d%3AT%3D1692454438%3ART%3D1692455229%3AS%3DALNI_MbCUvyt2t0CNKuh6InkQ0IM47OraA&amp;nras=1&amp;correlator=8397501314896&amp;frm=20&amp;pv=2&amp;ga_vid=1184834605.1692455333&amp;ga_sid=1692455333&amp;ga_hid=2033566093&amp;ga_fc=0&amp;u_tz=420&amp;u_his=5&amp;u_h=864&amp;u_w=1536&amp;u_ah=864&amp;u_aw=1536&amp;u_cd=24&amp;u_sd=1.25&amp;dmc=8&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1519&amp;bih=574&amp;scr_x=0&amp;scr_y=0&amp;eid=44759875%2C44759926%2C44759837%2C31077084%2C31077091%2C31077148%2C42532316%2C31076994%2C31077198%2C44799579%2C31067146%2C31067147%2C31067148%2C31068556%2C44800312&amp;oid=2&amp;pvsid=3946485694936196&amp;tmod=1597256595&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C864%2C1536%2C574&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;td=1&amp;nt=1&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=108"
+                data-google-container-id="a!1" data-load-complete="true">
+            </iframe>
+        </div>
+    </ins>
+    <script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/64d21bf31fc/languages/en.js"></script><iframe
+        src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe>
+    <div id="kr849ehbs2r1692455336993" class="widget-hidden">
+        <iframe src="about:blank" frameborder="0" scrolling="no" width="244px" height="44px"
+            style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:0px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:44px !important; min-width:244px !important; max-height:44px !important; max-width:244px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:244px !important; height:44px !important; display:block !important; z-index:1000001 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;"
+            id="nis20qdchpbo1692455337028" class="" title="chat widget">
+        </iframe>
+        <iframe src="about:blank" frameborder="0" scrolling="no" width="350px" height="520px"
+            style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:0px !important; bottom:0px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:520px !important; min-width:350px !important; max-height:520px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:520px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:5px 5px  0 0 !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;"
+            id="ghqptc4cvv91692455337020" class="" title="chat widget">
+        </iframe>
+        <iframe src="about:blank" frameborder="0" scrolling="no" width="360px" height="145px"
+            style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:60px; left:auto !important; position:fixed !important; border:0 !important; min-height:145px !important; min-width:360px !important; max-height:145px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:145px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;"
+            id="nftt644pr7b81692455337044" class="" title="chat widget">
+        </iframe>
+        <iframe src="about:blank" frameborder="0" scrolling="no" width="142px" height="86px"
+            style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:69px !important; bottom:44px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:86px !important; min-width:142px !important; max-height:86px !important; max-width:142px !important; padding:0 !important; margin:0px 0 0 0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:rotate(0deg) translateZ(0); -webkit-transform:rotate(0deg) translateZ(0); -ms-transform:rotate(0deg) translateZ(0); width:142px !important; height:86px !important; display:none !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important; -moz-transform:rotate(0deg) translateZ(0); -o-transform:rotate(0deg) translateZ(0); transform-origin:0; -moz-transform-origin:0; -webkit-transform-origin:0; -o-transform-origin:0; -ms-transform-origin:0;"
+            id="jugsdgt59q7o1692455337035" class="" title="chat widget">
+        </iframe>
+    </div>
+    <div class="iziToast-wrapper iziToast-wrapper-topRight"></div>
+</body>
+<iframe id="google_esf" name="google_esf"
+    src="https://googleads.g.doubleclick.net/pagead/html/r20230816/r20190131/zrt_lookup.html" style="display: none;">
+</iframe>
+
+</html>

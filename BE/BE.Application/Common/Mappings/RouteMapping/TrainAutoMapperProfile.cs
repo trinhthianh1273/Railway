@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using BE.Application.Features.Trains.Query.GetAllTrain;
+using BE.Application.Features.Trains.Query.GetTrainById;
 using BE.Application.Features.Users.Query.GetAllUser;
 using BE.Domain.Entities;
 using System;
@@ -19,8 +20,15 @@ public class TrainAutoMapperProfile : Profile
 		CreateMap<Coach, GetAllTrainDto>()
 			.ForMember(dest => dest.SeatCount, opt => opt.MapFrom(src => src.Seats.Count));
 
+		CreateMap<Coach, GetTrainByIdDto>()
+			.ForMember(dest => dest.SeatCount, opt => opt.MapFrom(src => src.Seats.Count));
+
 
 		CreateMap<Train, GetAllTrainDto>()
+				.ForMember(dest => dest.CoachCount, opt => opt.MapFrom(src => src.Coaches.Count))
+				.ForMember(dest => dest.SeatCount, opt => opt.MapFrom(src => src.Coaches.SelectMany(coach => coach.Seats).Count()));
+
+		CreateMap<Train, GetTrainByIdDto>()
 				.ForMember(dest => dest.CoachCount, opt => opt.MapFrom(src => src.Coaches.Count))
 				.ForMember(dest => dest.SeatCount, opt => opt.MapFrom(src => src.Coaches.SelectMany(coach => coach.Seats).Count()));
 	}

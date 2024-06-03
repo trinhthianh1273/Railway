@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <Folder Include="Features\Routes\Query\GetRoutePagination\" />
-    <Folder Include="Features\Trains\Command\" />
   </ItemGroup>
 
 </Project>

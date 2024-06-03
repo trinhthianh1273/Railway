@@ -10,3 +10,15 @@ A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.dll
 A:\Railway\BE\BE.Domain\obj\Debug\net7.0\refint\BE.Domain.dll
 A:\Railway\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.pdb
 A:\Railway\BE\BE.Domain\obj\Debug\net7.0\ref\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\bin\Debug\net7.0\BE.Domain.deps.json
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\bin\Debug\net7.0\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\bin\Debug\net7.0\BE.Domain.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.csproj.AssemblyReference.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.AssemblyInfo.cs
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\refint\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\BE.Domain.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Domain\obj\Debug\net7.0\ref\BE.Domain.dll

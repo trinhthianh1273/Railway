@@ -17,3 +17,22 @@ A:\Railway\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.pdb
 A:\Railway\BE\BE.Infranstructure\obj\Debug\net7.0\ref\BE.Infranstructure.dll
 A:\Railway\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Shared.dll
 A:\Railway\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Shared.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Infranstructure.deps.json
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Infranstructure.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Infranstructure.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Application.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Shared.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Application.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Domain.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\bin\Debug\net7.0\BE.Shared.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.csproj.AssemblyReference.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.AssemblyInfoInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.AssemblyInfo.cs
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.csproj.CopyComplete
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\refint\BE.Infranstructure.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\BE.Infranstructure.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Infranstructure\obj\Debug\net7.0\ref\BE.Infranstructure.dll

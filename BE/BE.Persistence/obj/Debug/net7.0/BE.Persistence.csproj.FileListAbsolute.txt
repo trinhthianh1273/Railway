@@ -19,3 +19,24 @@ A:\Railway\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.genruntimeconfig.ca
 A:\Railway\BE\BE.Persistence\obj\Debug\net7.0\ref\BE.Persistence.dll
 A:\Railway\BE\BE.Persistence\bin\Debug\net7.0\BE.Shared.dll
 A:\Railway\BE\BE.Persistence\bin\Debug\net7.0\BE.Shared.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Persistence.deps.json
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Persistence.runtimeconfig.json
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Persistence.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Persistence.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Application.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Domain.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Shared.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Application.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Domain.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\bin\Debug\net7.0\BE.Shared.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.csproj.AssemblyReference.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.AssemblyInfoInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.AssemblyInfo.cs
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.csproj.CopyComplete
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\refint\BE.Persistence.dll
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.pdb
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\BE.Persistence.genruntimeconfig.cache
+C:\Users\MSI Modern\Railway-653e2e919b7d645e873a4ee8a91ff8a4a9da4ebd\BE\BE.Persistence\obj\Debug\net7.0\ref\BE.Persistence.dll
